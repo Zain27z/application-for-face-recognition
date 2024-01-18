@@ -1,0 +1,4 @@
+*.pyc
+train_result.out
+venv/*
+.vscode
